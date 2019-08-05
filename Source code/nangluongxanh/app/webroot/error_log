@@ -1,0 +1,150 @@
+[10-Jul-2014 02:40:03 UTC] PHP Fatal error:  Class 'PagesController' not found in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 6
+[11-Jul-2014 08:22:24 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 57
+[11-Jul-2014 08:22:25 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 57
+[11-Jul-2014 08:22:48 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 57
+[11-Jul-2014 08:22:49 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 57
+[11-Jul-2014 08:25:53 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 57
+[11-Jul-2014 08:25:54 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 57
+[11-Jul-2014 08:27:27 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/View/Users/index.ctp on line 5
+[14-Jul-2014 02:02:42 UTC] PHP Fatal error:  Call to undefined method UsersController::_usersId() in /home/zaknight/public_html/shopphone/app/Controller/AppController.php on line 56
+[15-Jul-2014 02:00:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/zaknight/public_html/shopphone/app/View/Users/add.ctp on line 17
+[15-Jul-2014 02:19:00 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/zaknight/public_html/shopphone/app/View/Users/login.ctp on line 6
+[15-Jul-2014 02:20:07 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/zaknight/public_html/shopphone/app/View/Users/login.ctp on line 6
+[15-Jul-2014 02:22:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/zaknight/public_html/shopphone/app/View/Users/login.ctp on line 7
+[15-Jul-2014 04:31:41 UTC] PHP Fatal error:  Cannot use object of type User as array in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 42
+[15-Jul-2014 08:00:55 UTC] PHP Fatal error:  Call to a member function date_format() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 44
+[15-Jul-2014 08:01:53 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 44
+[15-Jul-2014 08:47:31 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 66
+[15-Jul-2014 09:04:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 58
+[16-Jul-2014 02:04:42 UTC] PHP Fatal error:  Cannot redeclare Signup::$useTable in /home/zaknight/public_html/shopphone/app/Model/Signup.php on line 32
+[16-Jul-2014 03:13:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/zaknight/public_html/shopphone/app/View/Users/add.ctp on line 21
+[16-Jul-2014 03:16:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/zaknight/public_html/shopphone/app/View/Users/add.ctp on line 21
+[16-Jul-2014 03:19:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/zaknight/public_html/shopphone/app/View/Users/add.ctp on line 21
+[16-Jul-2014 08:45:09 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 78
+[16-Jul-2014 08:47:56 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 60
+[16-Jul-2014 08:49:05 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 60
+[16-Jul-2014 08:50:28 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 60
+[16-Jul-2014 08:51:13 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 59
+[16-Jul-2014 08:51:22 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 59
+[16-Jul-2014 08:51:34 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 59
+[16-Jul-2014 08:54:03 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 59
+[16-Jul-2014 10:27:44 UTC] PHP Fatal error:  Call to a member function url() on a non-object in /home/zaknight/public_html/shopphone/app/View/Users/add.ctp on line 22
+[16-Jul-2014 10:27:44 UTC] PHP Fatal error:  Call to a member function url() on a non-object in /home/zaknight/public_html/shopphone/app/View/Users/add.ctp on line 22
+[17-Jul-2014 04:10:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/zaknight/public_html/shopphone/app/View/Users/index.ctp on line 3
+[17-Jul-2014 10:10:14 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 80
+[17-Jul-2014 10:11:05 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 80
+[17-Jul-2014 11:53:14 UTC] PHP Fatal error:  Class 'SimplePasswordHasher' not found in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 83
+[17-Jul-2014 11:54:17 UTC] PHP Fatal error:  Class 'SimplePasswordHasher' not found in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 83
+[17-Jul-2014 12:21:02 UTC] PHP Fatal error:  Call to a member function hash() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 84
+[17-Jul-2014 12:35:38 UTC] PHP Fatal error:  Call to a member function hash() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 85
+[18-Jul-2014 03:11:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 20
+[18-Jul-2014 03:19:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 20
+[18-Jul-2014 04:36:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 124
+[18-Jul-2014 04:37:02 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 124
+[18-Jul-2014 04:37:49 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 124
+[18-Jul-2014 04:37:54 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 124
+[18-Jul-2014 04:39:42 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 124
+[18-Jul-2014 07:20:30 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Controller/AppController.php on line 39
+[18-Jul-2014 07:23:08 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Controller/AppController.php on line 39
+[18-Jul-2014 07:23:38 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Controller/AppController.php on line 40
+[18-Jul-2014 07:24:19 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Controller/AppController.php on line 39
+[18-Jul-2014 07:25:54 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Controller/AppController.php on line 39
+[18-Jul-2014 07:26:59 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Controller/AppController.php on line 39
+[18-Jul-2014 07:30:01 UTC] PHP Parse error:  syntax error, unexpected '$set' (T_VARIABLE), expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Controller/AppController.php on line 39
+[18-Jul-2014 07:58:46 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 07:58:47 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:01:16 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:01:17 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:02:50 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 41
+[18-Jul-2014 08:02:55 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:10:22 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:10:23 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:12:11 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:12:12 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:13:26 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 43
+[18-Jul-2014 08:13:30 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:19:55 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:20:06 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:21:00 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:21:04 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/View/Helper/SidebarHelper.php on line 8
+[18-Jul-2014 08:39:53 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 126
+[18-Jul-2014 08:39:53 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 126
+[18-Jul-2014 08:40:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 126
+[18-Jul-2014 08:40:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 126
+[18-Jul-2014 08:41:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 126
+[18-Jul-2014 09:22:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 97
+[18-Jul-2014 09:24:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zaknight/public_html/shopphone/app/Controller/UsersController.php on line 101
+[19-Jul-2014 02:46:58 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/HangSXController.php on line 4
+[19-Jul-2014 02:47:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/zaknight/public_html/shopphone/app/View/HangSX/index.ctp on line 2
+[19-Jul-2014 02:50:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/zaknight/public_html/shopphone/app/View/HangSX/add.ctp on line 2
+[19-Jul-2014 02:54:26 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/HangSXController.php on line 14
+[19-Jul-2014 03:10:36 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/zaknight/public_html/shopphone/app/Controller/HangSXController.php on line 24
+[19-Jul-2014 03:12:05 UTC] PHP Fatal error:  Class 'AdminController' not found in /home/zaknight/public_html/shopphone/app/Controller/HangSXController.php on line 2
+[19-Jul-2014 03:16:15 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting '{' in /home/zaknight/public_html/shopphone/app/Controller/HangSXController.php on line 2
+[19-Jul-2014 03:31:32 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting '{' in /home/zaknight/public_html/shopphone/app/Controller/HangSXController.php on line 2
+[19-Jul-2014 04:10:58 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/zaknight/public_html/shopphone/app/Controller/AdminController.php on line 33
+[21-Jul-2014 04:34:54 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaknight/public_html/shopphone/app/View/Layouts/pageindex.ctp on line 139
+[04-Aug-2014 04:00:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/zaknight/public_html/shopphone/app/View/Admin/addproduct.ctp on line 14
+[04-Aug-2014 04:01:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/zaknight/public_html/shopphone/app/View/Admin/addproduct.ctp on line 14
+[04-Aug-2014 04:06:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/zaknight/public_html/shopphone/app/View/Admin/addproduct.ctp on line 14
+[04-Aug-2014 04:11:08 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Model/Product.php on line 54
+[04-Aug-2014 04:12:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/zaknight/public_html/shopphone/app/Model/Product.php on line 54
+[04-Aug-2014 04:24:34 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/zaknight/public_html/shopphone/app/View/Admin/addproduct.ctp on line 17
+[04-Aug-2014 04:26:19 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/zaknight/public_html/shopphone/app/View/Admin/addproduct.ctp on line 17
+[04-Aug-2014 09:59:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';' in /home/zaknight/public_html/shopphone/app/View/Products/index.ctp on line 5
+[04-Aug-2014 10:02:35 UTC] PHP Parse error:  syntax error, unexpected ''border'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/zaknight/public_html/shopphone/app/View/Products/index.ctp on line 5
+[06-Aug-2014 02:28:48 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/zaknight/public_html/shopphone/app/Controller/AdminController.php on line 50
+[07-Aug-2014 04:12:59 UTC] PHP Parse error:  syntax error, unexpected 'zoom1' (T_STRING), expecting ',' or ';' in /home/zaknight/public_html/shopphone/app/View/Products/view.ctp on line 15
+[07-Aug-2014 07:01:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/zaknight/public_html/shopphone/app/View/Products/view.ctp on line 6
+[08-Aug-2014 03:09:07 UTC] PHP Parse error:  syntax error, unexpected 'zoom1' (T_STRING), expecting ',' or ';' in /home/zaknight/public_html/shopphone/app/View/Products/view.ctp on line 19
+[08-Aug-2014 03:10:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/zaknight/public_html/shopphone/app/View/Products/view.ctp on line 20
+[08-Aug-2014 04:22:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaknight/public_html/shopphone/app/View/Products/view.ctp on line 25
+[08-Aug-2014 04:29:30 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/zaknight/public_html/shopphone/app/View/Products/view.ctp on line 27
+[11-Aug-2014 04:20:10 UTC] PHP Parse error:  syntax error, unexpected 'more' (T_STRING) in /home/zaknight/public_html/shopphone/app/Model/Cart.php on line 60
+[24-Sep-2014 03:15:49 America/Chicago] PHP Fatal error:  Class 'AppModel' not found in /home/kmaaolox/public_html/demoprojects/shopphone/app/Model/Hangsx.php on line 6
+[24-Sep-2014 03:15:49 America/Chicago] PHP Fatal error:  Class 'AppModel' not found in /home/kmaaolox/public_html/demoprojects/shopphone/lib/Cake/Utility/ClassRegistry.php on line 186
+[24-Sep-2014 22:01:41 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Contacts/index.ctp on line 4
+[24-Sep-2014 22:01:44 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Contacts/index.ctp on line 4
+[24-Sep-2014 22:03:07 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Contacts/index.ctp on line 4
+[24-Sep-2014 22:04:04 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Contacts/index.ctp on line 4
+[24-Sep-2014 22:04:31 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Contacts/index.ctp on line 4
+[24-Sep-2014 22:04:38 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Contacts/index.ctp on line 4
+[24-Sep-2014 22:06:59 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Contacts/index.ctp on line 5
+[24-Sep-2014 22:11:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Contacts/index.ctp on line 5
+[25-Sep-2014 02:54:33 America/Chicago] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/ContactsController.php on line 6
+[25-Sep-2014 02:55:15 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/AppController.php on line 85
+[25-Sep-2014 02:55:16 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/AppController.php on line 85
+[25-Sep-2014 02:55:28 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/AppController.php on line 85
+[25-Sep-2014 02:55:29 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/AppController.php on line 85
+[25-Sep-2014 02:58:15 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/AppController.php on line 85
+[25-Sep-2014 02:58:16 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/AppController.php on line 85
+[25-Sep-2014 04:02:11 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/ContactsController.php on line 21
+[25-Sep-2014 04:14:44 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/ContactsController.php on line 22
+[26-Sep-2014 22:54:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 133
+[26-Sep-2014 22:54:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 133
+[26-Sep-2014 22:55:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 133
+[26-Sep-2014 22:55:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 133
+[26-Sep-2014 22:58:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 134
+[26-Sep-2014 23:04:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 134
+[23-Oct-2014 21:47:15 America/Chicago] PHP Parse error:  syntax error, unexpected ''before'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Admin/addproduct.ctp on line 41
+[23-Oct-2014 21:48:05 America/Chicago] PHP Parse error:  syntax error, unexpected ''before'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Admin/addproduct.ctp on line 41
+[23-Oct-2014 22:19:16 America/Chicago] PHP Fatal error:  Call to a member function input() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Admin/editproduct.ctp on line 38
+[23-Oct-2014 23:02:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 123
+[23-Oct-2014 23:07:04 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 126
+[23-Oct-2014 23:13:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$b' (T_VARIABLE) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 126
+[23-Oct-2014 23:13:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$b' (T_VARIABLE) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 126
+[23-Oct-2014 23:13:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$b' (T_VARIABLE) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 126
+[23-Oct-2014 23:14:17 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 125
+[23-Oct-2014 23:16:45 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 125
+[23-Oct-2014 23:17:19 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/CartsController.php on line 125
+[26-Oct-2014 21:50:04 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/ProductsController.php on line 49
+[26-Oct-2014 21:50:25 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/ProductsController.php on line 52
+[26-Oct-2014 22:32:14 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/kmaaolox/public_html/demoprojects/shopphone/lib/Cake/Controller/Controller.php on line 848
+[26-Oct-2014 22:38:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/ProductsController.php on line 47
+[27-Oct-2014 02:14:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Products/view.ctp on line 104
+[27-Oct-2014 02:14:56 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Products/view.ctp on line 107
+[27-Oct-2014 02:16:02 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Products/view.ctp on line 108
+[06-Nov-2014 03:18:28 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Layouts/pageadmin.ctp on line 322
+[06-Nov-2014 21:28:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home/kmaaolox/public_html/demoprojects/shopphone/app/View/Layouts/pageadmin.ctp on line 267
+[11-Nov-2014 02:49:44 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/AppController.php on line 119
+[11-Nov-2014 02:49:44 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/kmaaolox/public_html/demoprojects/shopphone/app/Controller/AppController.php on line 119

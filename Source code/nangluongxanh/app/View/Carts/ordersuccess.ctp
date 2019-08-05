@@ -1,0 +1,1 @@
+<h2>OK đã nhận mail</h2>
