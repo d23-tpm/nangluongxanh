@@ -307,7 +307,7 @@ public function manageuser() {
               $this->Hangsx->create();
               $hangsx = $this->Hangsx->find('all');
               if($this->request->data['Hangsx']['MaHangSX']!=$hangsx[0]['Hangsx']['MaHangSX'] ){
-               if($this->request->data['Hangsx']['TenHangSX']!=$hangsx[0]['Hangsx']['TenHangSanXuat']){
+               if($this->request->data['Hangsx']['TenHangSX']!=$hangsx[0]['Hangsx']['TenHangSX']){
                 if ($this->Hangsx->save($this->request->data)) {
                  $this->Session->setFlash('Hãng sản xuất lưu thành công!','default', array('class' => 'notice success'));
                  return $this->redirect(array('action' => 'addhsx'));
