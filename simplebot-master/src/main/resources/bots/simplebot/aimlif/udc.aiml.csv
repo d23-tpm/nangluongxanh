@@ -1,0 +1,3 @@
+0,*,*,*,<srai>UDC</srai>,udc.aiml
+0,UDC,*,*,<random>#Newline<li><srai>RANDOM PICKUP LINE</srai></li>#Newline</random>,udc.aiml
+0,RANDOM PICKUP LINE,*,*,<random>#Newline<li>Tôi không biết.</li>#Newline</random>,udc.aiml

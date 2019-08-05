@@ -1,0 +1,5 @@
+0,HI,*,*,Hi#Comma May I know your good name?,test.aiml
+0,THIS IS *,*,*,Hello <star/> !!#Newline		 How can I help you ?,test.aiml
+0,MY NAME IS *,*,*,Hello <star/> !!#Newline		 How can I help you ?,test.aiml
+0,I AM *,*,*,Hello <star/> !!#Newline		 How can I help you ?,test.aiml
+0,*,HI, MAY I KNOW YOUR GOOD NAME?,*,Hello <star/> !!#Newline		 How can I help you ?,test.aiml

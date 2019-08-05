@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: dulieu.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: tháng bảy 11, 2019 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2019 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>CHÀO BẠN</pattern>
+<template>Xin chào, mình có thể giúp được gì nhỉ ?</template>
+</category>
+<category><pattern>HELLO, TƯ VẤN HỘ MÌNH CÁI NÀY VỚI</pattern>
+<template>Vâng ạ, mình có thể giúp được gì nhỉ ?</template>
+</category>
+<category><pattern>BẠN CÓ TIVI KHÔNG ?</pattern>
+<template>Bên mình có khá nhiều loại, bạn muốn loại nào ạ</template>
+</category>
+<category><pattern>MÌNH MUỐN MUA TV LG</pattern>
+<template>Mình có Smart Tivi LG 4K 43 inch 43UK6340PTF, LG 32 inch 32LK540BPTA ... và nhiều sản phẩm khác nữa</template>
+</category>
+<category><pattern>BẠN CÓ THỂ HƯỚNG DẪN CHI TIẾT CHO MÌNH KHÔNG</pattern>
+<template>Trong trang web của công ty, bạn click vào menu rồi chọn sản phẩm tương ứng nhé, Còn không để mình share link
+Link là: nangluongxanh.com/danhmuc/sanpham</template>
+</category>
+<category><pattern>TUYỆT VỜI, CẢM ƠN BẠN NHÉ</pattern>
+<template>Không có gì ạ, bạn cứ lựa chọn đi, thắc mắc chỗ nào thì nhắn lại mình nhé</template>
+</category>
+<category><pattern>MÌNH MUỐN MUA TỦ LẠNH</pattern>
+<template>Trong trang web của công ty, bạn click vào menu rồi chọn sản phẩm tương ứng nhé, Còn không để mình share link
+Link là: nangluongxanh.com/danhmuc/sanpham</template>
+</category>
+<category><pattern>MÌNH MUỐN MUA MÁY GIẶT</pattern>
+<template>Trong trang web của công ty, bạn click vào menu rồi chọn sản phẩm tương ứng nhé, Còn không để mình share link
+Link là: nangluongxanh.com/danhmuc/sanpham</template>
+</category>
+<category><pattern>MÌNH MUỐN MUA ĐIỀU HÒA</pattern>
+<template>Trong trang web của công ty, bạn click vào menu rồi chọn sản phẩm tương ứng nhé, Còn không để mình share link
+Link là: nangluongxanh.com/danhmuc/sanpham</template>
+</category>
+<category><pattern>_ MUA ĐIỀU HÒA</pattern>
+<template>Trong trang web của công ty, bạn click vào menu rồi chọn sản phẩm tương ứng nhé, Còn không để mình share link
+Link là: nangluongxanh.com/danhmuc/sanpham</template>
+</category>
+<category><pattern>MUA ĐIỀU HÒA *</pattern>
+<template>Trong trang web của công ty, bạn click vào menu rồi chọn sản phẩm tương ứng nhé, Còn không để mình share link
+Link là: nangluongxanh.com/danhmuc/sanpham</template>
+</category>
+<category><pattern>_ MUA ĐIỀU HÒA *</pattern>
+<template>Trong trang web của công ty, bạn click vào menu rồi chọn sản phẩm tương ứng nhé, Còn không để mình share link
+Link là: nangluongxanh.com/danhmuc/sanpham</template>
+</category>
+<category><pattern>THANH TOÁN THẾ*</pattern>
+<template>Bên mình thanh toán qua thẻ visa hoặc thanh toán trực tiếp tại quầy nhé</template>
+</category>
+<category><pattern>BÊN MÌNH CÓ HỖ TRỢ TRẢ GÓP KHÔNG ?</pattern>
+<template>Dạ, cũng tùy loại sản phẩm bạn nhé,
+Chi tiết bạn xem link dưới đây giúp mình:
+nangluongxanh.com/danhmuc/sanpham</template>
+</category>
+<category><pattern>CẢM ƠN</pattern>
+<template>Dạ, Không có gì, được hỗ trợ quý khách là niềm vinh dự cho bọn mình.</template>
+</category>
+<category><pattern>BẠN TÊN GÌ ĐÓ NHỈ ?</pattern>
+<template>Dạ, mình là chatbot, hi vọng được hỗ trợ quý khách ngày hôm nay.</template>
+</category>
+<category><pattern>CAM ON</pattern>
+<template>Dạ, Không có gì, được hỗ trợ quý khách là niềm vinh dự cho bọn mình.</template>
+</category>
+<category><pattern>TẠM BIỆT NHÉ</pattern>
+<template>Dạ, Không có gì, được hỗ trợ quý khách là niềm vinh dự cho bọn mình.</template>
+</category>
+<category><pattern>ĐỊA CHỈ CÔNG TY MÌNH Ở ĐÂU ĐÓ NHỈ</pattern>
+<template>Dạ, Cty mình chi nhánh Đà Nẵng - số 03 đường Quang Trung ạ.</template>
+</category>
+<category><pattern>BÊN MÌNH CÓ HỖ TRỢ SHIP HÀNG KHÔNG ?</pattern>
+<template>Anh/Chị cứ yên tâm, khi mua hàng thì bên mình free ship nhé.</template>
+</category>
+<category><pattern>XIN CHÀO</pattern>
+<template>Em Chatbot là một ứng dụng trả lời tự động các câu hỏi từ các thượng đế của Năng lượng xanh. Đừng làm khó em với những câu hỏi quá phức tạp</template>
+</category>
+<category><pattern>CÁC SẢN PHẨM HOT</pattern>
+<template>Năng lượng xanh đang có nhưng sản phẩm điện máy của các hãng như LG, SONY, PANASONIC...</template>
+</category>
+<category><pattern>KHUYẾN MÃI</pattern>
+<template>Năng lượng xanh đang có chương trình khuyến mãi giảm 50% cho tất cả các sản phẩm đến từ hảng LG</template>
+</category>
+<category><pattern>TÔI MUA HÀNG TRỰC TUYẾN NHƯ THẾ NÀO</pattern>
+<template>Bạn chỉ cần chọn sản phẩm mà bạn muốn mua, sau đó chọn thêm vào giỏ hàng và thực hiện thanh toán.</template>
+</category>
+<category><pattern>TỦ LẠNH TỐT</pattern>
+<template>Em xin gợi ý cho anh chị sản phẩm tủ lạnh đến từ hãng sony, anh chị hãy tham khảo ạ.</template>
+</category>
+<category><pattern>ĐIỆN THOẠI</pattern>
+<template>Em xin gợi ý cho anh chị sản phẩm điện thoại Iphone X đến từ hãng Apple, anh chị hãy tham khảo ạ.</template>
+</category>
+<category><pattern>GIÁ ĐIỆN THOẠI IPHONE XS</pattern>
+<template>Giá của sản phẩm Iphone XS là 20 triệu</template>
+</category>
+<category><pattern>ĐIỆN THOẠI GIẢM GIÁ</pattern>
+<template>Hiện tại Năng lượng xanh đang có chương trình giảm giá 30% cho các dòng điện thoại Samsung</template>
+</category>
+<category><pattern>TIVI GIẢM GIÁ</pattern>
+<template>Hiện tại Năng lượng xanh đang có chương trình giảm giá 35% cho các dòng tivi LG</template>
+</category>
+<category><pattern>MÁY GIẶT GIẢM GIÁ</pattern>
+<template>Hiện tại Năng lượng xanh đang có chương trình giảm giá 35% cho các dòng máy giặt LG</template>
+</category>
+<category><pattern>TỦ LẠNH</pattern>
+<template>Em xin gợi ý cho anh chị sản phẩm máy giặt inverter đến từ hãng Samsung, anh chị hãy tham khảo ạ.</template>
+</category>
+<category><pattern>TIVI</pattern>
+<template>Em xin gợi ý cho anh chị sản phẩm Smart TiVi đến từ hãng Sony, anh chị hãy tham khảo ạ.</template>
+</category>
+<category><pattern>ĐỊA CHỈ NĂNG LƯỢNG XANH</pattern>
+<template>Năng lượng xanh đang có mặt tại số 3 Quang Trung, anh chị vui lòng đến tần shop để tham khảo các sản phẩm</template>
+</category>
+<category><pattern>GIỜ MỞ CỬA</pattern>
+<template>Năng lượng xanh mở cửa từ 8h sáng đến 9h tối hằng ngày</template>
+</category>
+<category><pattern>MÁY GIẶT</pattern>
+<template>Em xin gợi ý cho anh chị sản phẩm máy giặt đến từ hãng Samsung, anh chị hãy tham khảo ạ.</template>
+</category>
+<category><pattern>SHIP HÀNG MẤT BAO LÂU</pattern>
+<template>Năng lượng xanh thực hiện ship hàng và lăp đặt cho quý khách không quá 2 ngày kể từ ngày đặt hàng.</template>
+</category>
+<category><pattern>MIỂN PHÍ LẮP ĐẶT</pattern>
+<template>Năng lượng xanh sẽ thực hiện lắp đặt miễn phí đối với các sản phẩm tivi, tủ lạnh, máy giặt...</template>
+</category>
+<category><pattern>PHÍ SHIP</pattern>
+<template>Năng lượng xanh sẽ thực hiện ship miển phí cho tất cả các sản phẩm</template>
+</category>
+</aiml>
